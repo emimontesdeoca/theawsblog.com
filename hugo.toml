@@ -129,8 +129,8 @@ buildFuture = false
   ]
 
   [params.umami]
-    enabled = false
-    websiteId = ""
+    enabled = true
+    websiteId = "0c10dddd-b5a3-4f55-a011-24ebca7890f4"
     src = "https://analytics.emilianomontesdeoca.com/script.js"
 
 [menus]
